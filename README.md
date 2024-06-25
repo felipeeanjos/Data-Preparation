@@ -1,2 +1,2 @@
 # Data-Preparation
-Data Preparation
+Fiz o import das bibliotecas, e dos datasets, DataPrepFinal , nosso primeiro dataset a ser importado e tratado, transformando colunas nos seus devidos tipos, para isso fazendo os tratamentos necessários, depois importei o dataset de campanha , 'campaign.csv' fiz os devidos tratamentos e fiz um murge com nosso primeiro dataset, e por último o tratamento do dataset 'invested.csv' onde foi necessário fazer um get_dummies para transformar colunas categóricas em numéricas, e conseguir então fazer o groupby da maneira certa, isso pois tinham ID's iguais com localizações diferentes nesse df de investimento, e então conseguimos finalizar o último merge. 
